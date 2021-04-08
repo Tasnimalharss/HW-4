@@ -46,7 +46,7 @@ namespace Attendance_db
             }
 
             this.Hide();
-            f.comboBox1.Items.Add(textBox1.Text);
+            f.getLabs();
 
         }
     }

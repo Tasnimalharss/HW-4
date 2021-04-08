@@ -47,7 +47,7 @@ namespace Attendance_db
             }
 
             this.Hide();
-            f.comboBox3.Items.Add(textBox1.Text);
+            f.getTeachers();
 
         }
     }

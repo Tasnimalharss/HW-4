@@ -7,7 +7,6 @@ F:\FILES\C#\Attendance-db\Attendance-db\obj\Debug\Attendance-db.csproj.GenerateR
 F:\FILES\C#\Attendance-db\Attendance-db\obj\Debug\Attendance-db.csproj.CoreCompileInputs.cache
 F:\FILES\C#\Attendance-db\Attendance-db\obj\Debug\Attendance-db.exe
 F:\FILES\C#\Attendance-db\Attendance-db\obj\Debug\Attendance-db.pdb
-F:\FILES\C#\Attendance-db\Attendance-db\bin\Debug\MySql.Data.dll
 F:\FILES\C#\Attendance-db\Attendance-db\bin\Debug\Google.Protobuf.dll
 F:\FILES\C#\Attendance-db\Attendance-db\bin\Debug\Zstandard.Net.dll
 F:\FILES\C#\Attendance-db\Attendance-db\bin\Debug\K4os.Compression.LZ4.Streams.dll
